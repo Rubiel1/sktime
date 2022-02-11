@@ -1489,6 +1489,15 @@
       "contributions": [
         "doc"
       ]
+    },
+        {
+      "login": "Rubiel1",
+      "name": "Eric Dolores",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18435221?v=4",
+      "profile": "https://github.com/Rubiel1",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "sktime",
